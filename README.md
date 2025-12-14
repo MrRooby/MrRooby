@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Bartosz 👋
 
-<!--
-**MrRooby/MrRooby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software developer with a strong interest in low-level programming and embedded systems  
+🐧 Fedora Linux user • Vim enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About me
+- Programming in **C++, C#, and Python**
+- Daily driver: **Fedora Linux**
+- Editor of choice: **Vim**
+- Interested in **microcontrollers and SBCs**:
+  - ESP32
+  - Arduino
+  - Raspberry Pi
+- Focus areas:
+  - Embedded systems
+  - Networking & system-level programming
+  - Hardware–software integration
+
+---
+
+## 🛠️ Tech stack
+**Languages**
+- C++ • C# • Python • x86 Assembly 
+
+**Embedded / Hardware**
+- ESP32 • Arduino • Raspberry Pi  
+
+**Tools & Environment**
+- Fedora Linux
+- Vim
+- Git
+- KiCAD
+
+---
+
+## 📌 Selected projects
+- 🔹 ESP32-based LED controller with web interface
+- 🔹 Embedded device software with network communication
+- 🔹 System utilities and tooling in C++ / Python
+
+---
+
+## 📊 GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRooby&show_icons=true&hide_title=true)
