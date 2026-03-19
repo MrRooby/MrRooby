@@ -49,8 +49,8 @@ c++/c/c#/python developer • low-level programming • embedded systems • lin
 </td>
 </tr>
 </table>
-  This was my undergraduate thesis project. I built an **ESP32-S3 based RGB LED device** for students learning computer science fundamentals.  
-  The device simulates a simple CPU called **"Maszyna W"**, visualizing its internal operations in real-time.  
+  This was my undergraduate thesis project. I built an ESP32-S3 based RGB LED device for students learning computer science fundamentals.  
+  The device simulates a simple CPU called "Maszyna W", visualizing its internal operations in real-time.  
   
   - **Connectivity:** WiFi-enabled for live integration with a web simulator via **WebSockets**.  
   - **Modes:** Supports both **local** and **online** operation.  
