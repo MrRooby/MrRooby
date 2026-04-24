@@ -8,7 +8,8 @@ c++/c/c#/python developer • low-level programming • embedded systems • lin
 - Programming in **C++, C, C#, and Python**
 - Interested in **microcontrollers and SBCs**:
   - ESP32
-  - STM32
+  - WCH32V
+  - STM32/STM8
   - Arduino
   - Raspberry Pi
 - Focus areas:
